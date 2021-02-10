@@ -4,7 +4,8 @@ export default Home
 function Home() {
     return (
         <div>
-        <h2>Home</h2>
+        <h1>Teste github + vercel</h1>
+        <h2>contador</h2>
         <Contador/>
         </div>
 
